@@ -10,10 +10,10 @@ namespace ProyectoIronyCS.sol.com.analizador
 {
     class Gramatica : Grammar
     {
-        public Gramatica() : base(caseSensitive: false) {
+        public Gramatica()  {
 
             #region ER
-            var ENTERO = new NumberLiteral("entero");
+            var ENTERO = new RegexBasedTerminal("entero", "[0-9]+");
             var DECIMAL = new RegexBasedTerminal("Decimal", "[0-9]+'.'[0-9]+");
             #endregion
 
@@ -28,7 +28,6 @@ namespace ProyectoIronyCS.sol.com.analizador
             var MENOS = ToTerm("-");
             var POR = ToTerm("*");
             var DIVIDIDO = ToTerm("/");
-            var mod = ToTerm("%");
 
             RegisterOperators(1, MAS, MENOS);
             RegisterOperators(2, POR, DIVIDIDO);
@@ -64,6 +63,7 @@ namespace ProyectoIronyCS.sol.com.analizador
             #region Preferencias
             this.Root = ini;
             #endregion
+
         }
     }
 }

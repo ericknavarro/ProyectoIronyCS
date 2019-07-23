@@ -17,14 +17,9 @@ namespace ProyectoIronyCS.sol.com.analizador
             Parser parser = new Parser(lenguaje);
             ParseTree arbol = parser.Parse(cadena);
             ParseTreeNode raiz = arbol.Root;
-
-            if (raiz != null)
-            {
-                instrucciones(raiz.ChildNodes.ElementAt(0));
-            }
-            else {
-
-            }
+            
+            instrucciones(raiz.ChildNodes.ElementAt(0));
+            
         }
 
         public void instrucciones(ParseTreeNode actual) {
@@ -68,6 +63,5 @@ namespace ProyectoIronyCS.sol.com.analizador
                 return Double.Parse(actual.ChildNodes.ElementAt(0).ToString().Split(' ')[0]);
             }
         }
-
     }
 }
