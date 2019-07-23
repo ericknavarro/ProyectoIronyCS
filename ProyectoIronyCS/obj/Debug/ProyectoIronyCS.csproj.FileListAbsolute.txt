@@ -1,0 +1,12 @@
+C:\Users\eljul\Documents\GitHub\ProyectoIronyCS\ProyectoIronyCS\ProyectoIronyCS\bin\Debug\ProyectoIronyCS.exe.config
+C:\Users\eljul\Documents\GitHub\ProyectoIronyCS\ProyectoIronyCS\ProyectoIronyCS\bin\Debug\ProyectoIronyCS.exe
+C:\Users\eljul\Documents\GitHub\ProyectoIronyCS\ProyectoIronyCS\ProyectoIronyCS\bin\Debug\ProyectoIronyCS.pdb
+C:\Users\eljul\Documents\GitHub\ProyectoIronyCS\ProyectoIronyCS\ProyectoIronyCS\bin\Debug\Irony.pdb
+C:\Users\eljul\Documents\GitHub\ProyectoIronyCS\ProyectoIronyCS\ProyectoIronyCS\bin\Debug\Irony.Interpreter.pdb
+C:\Users\eljul\Documents\GitHub\ProyectoIronyCS\ProyectoIronyCS\ProyectoIronyCS\obj\Debug\ProyectoIronyCS.csprojAssemblyReference.cache
+C:\Users\eljul\Documents\GitHub\ProyectoIronyCS\ProyectoIronyCS\ProyectoIronyCS\obj\Debug\ProyectoIronyCS.Properties.Resources.resources
+C:\Users\eljul\Documents\GitHub\ProyectoIronyCS\ProyectoIronyCS\ProyectoIronyCS\obj\Debug\ProyectoIronyCS.csproj.GenerateResource.cache
+C:\Users\eljul\Documents\GitHub\ProyectoIronyCS\ProyectoIronyCS\ProyectoIronyCS\obj\Debug\ProyectoIronyCS.csproj.CoreCompileInputs.cache
+C:\Users\eljul\Documents\GitHub\ProyectoIronyCS\ProyectoIronyCS\ProyectoIronyCS\obj\Debug\ProyectoIronyCS.csproj.CopyComplete
+C:\Users\eljul\Documents\GitHub\ProyectoIronyCS\ProyectoIronyCS\ProyectoIronyCS\obj\Debug\ProyectoIronyCS.exe
+C:\Users\eljul\Documents\GitHub\ProyectoIronyCS\ProyectoIronyCS\ProyectoIronyCS\obj\Debug\ProyectoIronyCS.pdb
