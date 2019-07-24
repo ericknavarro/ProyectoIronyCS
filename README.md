@@ -5,8 +5,7 @@
 - Julio 2019
 
 ## Herramientas utilizadas
-- Irony: Generador de analizadores léxicos y sintácticos, retornando siempre
-un AST (Árbol de sintaxis).
+- Irony: Generador de analizadores léxicos y sintácticos que retorna un AST (Abstract Syntax Tree).
 - Visual Studio 2017: Entorno de desarrollo integrado utilizado para
 programar en C#.
 - Windows 10: Sistema Operativo.
