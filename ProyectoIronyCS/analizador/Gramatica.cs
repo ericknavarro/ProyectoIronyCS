@@ -13,7 +13,7 @@ namespace ProyectoIronyCS.sol.com.analizador
         public Gramatica()  {
 
             #region ER
-            var ENTERO = new RegexBasedTerminal("entero", "[0-9]+");
+            var ENTERO = new NumberLiteral("entero");
             var DECIMAL = new RegexBasedTerminal("Decimal", "[0-9]+'.'[0-9]+");
             #endregion
 
