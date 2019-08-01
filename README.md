@@ -6,7 +6,6 @@
 
 ## Herramientas utilizadas
 - Irony: Generador de analizadores léxicos y sintácticos que retorna un AST (Abstract Syntax Tree).
-- Visual Studio 2017: Entorno de desarrollo integrado utilizado para
-programar en C#.
+- Visual Studio 2017: Entorno de desarrollo integrado utilizado para programar en C#.
 - Windows 10: Sistema Operativo.
 - Irony.dll: DLL que permite la integración de Irony con C#.
