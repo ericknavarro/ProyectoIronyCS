@@ -1,26 +1,8 @@
-C:\Users\eljul\Documents\GitHub\ProyectoIronyCS\ProyectoIronyCS\ProyectoIronyCS\bin\Debug\ProyectoIronyCS.exe.config
-C:\Users\eljul\Documents\GitHub\ProyectoIronyCS\ProyectoIronyCS\ProyectoIronyCS\bin\Debug\ProyectoIronyCS.exe
-C:\Users\eljul\Documents\GitHub\ProyectoIronyCS\ProyectoIronyCS\ProyectoIronyCS\bin\Debug\ProyectoIronyCS.pdb
-C:\Users\eljul\Documents\GitHub\ProyectoIronyCS\ProyectoIronyCS\ProyectoIronyCS\bin\Debug\Irony.pdb
-C:\Users\eljul\Documents\GitHub\ProyectoIronyCS\ProyectoIronyCS\ProyectoIronyCS\bin\Debug\Irony.Interpreter.pdb
-C:\Users\eljul\Documents\GitHub\ProyectoIronyCS\ProyectoIronyCS\ProyectoIronyCS\obj\Debug\ProyectoIronyCS.csprojAssemblyReference.cache
-C:\Users\eljul\Documents\GitHub\ProyectoIronyCS\ProyectoIronyCS\ProyectoIronyCS\obj\Debug\ProyectoIronyCS.Properties.Resources.resources
-C:\Users\eljul\Documents\GitHub\ProyectoIronyCS\ProyectoIronyCS\ProyectoIronyCS\obj\Debug\ProyectoIronyCS.csproj.GenerateResource.cache
-C:\Users\eljul\Documents\GitHub\ProyectoIronyCS\ProyectoIronyCS\ProyectoIronyCS\obj\Debug\ProyectoIronyCS.csproj.CoreCompileInputs.cache
-C:\Users\eljul\Documents\GitHub\ProyectoIronyCS\ProyectoIronyCS\ProyectoIronyCS\obj\Debug\ProyectoIronyCS.csproj.CopyComplete
-C:\Users\eljul\Documents\GitHub\ProyectoIronyCS\ProyectoIronyCS\ProyectoIronyCS\obj\Debug\ProyectoIronyCS.exe
-C:\Users\eljul\Documents\GitHub\ProyectoIronyCS\ProyectoIronyCS\ProyectoIronyCS\obj\Debug\ProyectoIronyCS.pdb
-C:\Users\eljul\Documents\GitHub\ProyectoIronyCS\ProyectoIronyCS\bin\Debug\ProyectoIronyCS.exe.config
-C:\Users\eljul\Documents\GitHub\ProyectoIronyCS\ProyectoIronyCS\bin\Debug\ProyectoIronyCS.exe
-C:\Users\eljul\Documents\GitHub\ProyectoIronyCS\ProyectoIronyCS\bin\Debug\ProyectoIronyCS.pdb
-C:\Users\eljul\Documents\GitHub\ProyectoIronyCS\ProyectoIronyCS\bin\Debug\Irony.pdb
-C:\Users\eljul\Documents\GitHub\ProyectoIronyCS\ProyectoIronyCS\bin\Debug\Irony.Interpreter.pdb
-C:\Users\eljul\Documents\GitHub\ProyectoIronyCS\ProyectoIronyCS\obj\Debug\ProyectoIronyCS.csprojAssemblyReference.cache
-C:\Users\eljul\Documents\GitHub\ProyectoIronyCS\ProyectoIronyCS\obj\Debug\ProyectoIronyCS.Properties.Resources.resources
-C:\Users\eljul\Documents\GitHub\ProyectoIronyCS\ProyectoIronyCS\obj\Debug\ProyectoIronyCS.csproj.GenerateResource.cache
-C:\Users\eljul\Documents\GitHub\ProyectoIronyCS\ProyectoIronyCS\obj\Debug\ProyectoIronyCS.csproj.CoreCompileInputs.cache
-C:\Users\eljul\Documents\GitHub\ProyectoIronyCS\ProyectoIronyCS\obj\Debug\ProyectoIronyCS.csproj.CopyComplete
-C:\Users\eljul\Documents\GitHub\ProyectoIronyCS\ProyectoIronyCS\obj\Debug\ProyectoIronyCS.exe
-C:\Users\eljul\Documents\GitHub\ProyectoIronyCS\ProyectoIronyCS\obj\Debug\ProyectoIronyCS.pdb
-C:\Users\eljul\Documents\GitHub\ProyectoIronyCS\ProyectoIronyCS\obj\Debug\Interop.WINGRAPHVIZLib.dll
-C:\Users\eljul\Documents\GitHub\ProyectoIronyCS\ProyectoIronyCS\obj\Debug\ProyectoIronyCS.csproj.ResolveComReference.cache
+C:\Users\Erick Navarro\source\repos\ProyectoIronyCS\ProyectoIronyCS\obj\Debug\ProyectoIronyCS.csprojAssemblyReference.cache
+C:\Users\Erick Navarro\source\repos\ProyectoIronyCS\ProyectoIronyCS\obj\Debug\ProyectoIronyCS.csproj.CoreCompileInputs.cache
+C:\Users\Erick Navarro\source\repos\ProyectoIronyCS\ProyectoIronyCS\bin\Debug\ProyectoIronyCS.exe.config
+C:\Users\Erick Navarro\source\repos\ProyectoIronyCS\ProyectoIronyCS\bin\Debug\ProyectoIronyCS.exe
+C:\Users\Erick Navarro\source\repos\ProyectoIronyCS\ProyectoIronyCS\bin\Debug\ProyectoIronyCS.pdb
+C:\Users\Erick Navarro\source\repos\ProyectoIronyCS\ProyectoIronyCS\obj\Debug\ProyectoIronyCS.csproj.CopyComplete
+C:\Users\Erick Navarro\source\repos\ProyectoIronyCS\ProyectoIronyCS\obj\Debug\ProyectoIronyCS.exe
+C:\Users\Erick Navarro\source\repos\ProyectoIronyCS\ProyectoIronyCS\obj\Debug\ProyectoIronyCS.pdb
