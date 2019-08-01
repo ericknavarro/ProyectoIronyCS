@@ -2,16 +2,14 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 using System.Threading.Tasks;
-using System.Windows.Forms;
 
 namespace ProyectoIronyCS
 {
-    static class Program
+    class Program
     {
-       
-        [STAThread]
-        static void Main()
+        static void Main(string[] args)
         {
             string text = System.IO.File.ReadAllText("entrada.txt");
             Sintactico sintac = new Sintactico();
