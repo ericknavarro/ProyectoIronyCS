@@ -10,11 +10,11 @@ namespace ProyectoIronyCS.sol.com.analizador
 {
     class Gramatica : Grammar
     {
-        public Gramatica()  {
+        public Gramatica()
+        {
 
             #region ER
-            var ENTERO = new NumberLiteral("entero");
-            var DECIMAL = new RegexBasedTerminal("Decimal", "[0-9]+'.'[0-9]+");
+            var NUMERO = new NumberLiteral("Numero");
             #endregion
 
             #region Terminales
@@ -54,8 +54,7 @@ namespace ProyectoIronyCS.sol.com.analizador
                 | expresion + MENOS + expresion
                 | expresion + POR + expresion
                 | expresion + DIVIDIDO + expresion
-                | ENTERO
-                | DECIMAL
+                | NUMERO
                 | PARIZQ + expresion + PARDER;
 
             #endregion
