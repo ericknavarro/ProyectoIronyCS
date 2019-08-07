@@ -1,8 +1,0 @@
-C:\Users\Erick Navarro\source\repos\ProyectoIronyCS\ProyectoIronyCS\obj\Debug\ProyectoIronyCS.csprojAssemblyReference.cache
-C:\Users\Erick Navarro\source\repos\ProyectoIronyCS\ProyectoIronyCS\obj\Debug\ProyectoIronyCS.csproj.CoreCompileInputs.cache
-C:\Users\Erick Navarro\source\repos\ProyectoIronyCS\ProyectoIronyCS\bin\Debug\ProyectoIronyCS.exe.config
-C:\Users\Erick Navarro\source\repos\ProyectoIronyCS\ProyectoIronyCS\bin\Debug\ProyectoIronyCS.exe
-C:\Users\Erick Navarro\source\repos\ProyectoIronyCS\ProyectoIronyCS\bin\Debug\ProyectoIronyCS.pdb
-C:\Users\Erick Navarro\source\repos\ProyectoIronyCS\ProyectoIronyCS\obj\Debug\ProyectoIronyCS.csproj.CopyComplete
-C:\Users\Erick Navarro\source\repos\ProyectoIronyCS\ProyectoIronyCS\obj\Debug\ProyectoIronyCS.exe
-C:\Users\Erick Navarro\source\repos\ProyectoIronyCS\ProyectoIronyCS\obj\Debug\ProyectoIronyCS.pdb
